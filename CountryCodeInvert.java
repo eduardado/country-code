@@ -145,7 +145,7 @@ public enum CountryCode
     Cocos_Islands("CC", "CCK", 166),
 
     /** <a href="http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo">The Democratic Republic of the Congo</a> */
-    The_Democratic_Republic_of_the_Congo("CD", "COD", 180),
+    Democratic_Republic_of_the_Congo("CD", "COD", 180),
 
     /** <a href="http://en.wikipedia.org/wiki/Central_African_Republic">Central African Republic</a> */
     Central_African_Republic("CF", "CAF", 140),
@@ -265,7 +265,7 @@ public enum CountryCode
     Georgia("GE", "GEO", 268),
 
     /** <a href="http://en.wikipedia.org/wiki/French_Guiana">French Guiana</a> */
-    French Guiana("GF", "GUF", 254),
+    French_Guiana("GF", "GUF", 254),
 
     /** <a href="http://en.wikipedia.org/wiki/Guernsey">Guemsey</a> */
     Guemsey("GG", "GGY", 831),
@@ -388,10 +388,10 @@ public enum CountryCode
     Saint_Kitts_and_Nevis("KN", "KNA", 659),
 
     /** <a href="http://en.wikipedia.org/wiki/North_Korea">Democratic People's Republic of Korea</a> */
-    Democratic_People's_Republic_of_Korea("KP", "PRK", 408),
+    North_Korea("KP", "PRK", 408),
 
     /** <a href="http://en.wikipedia.org/wiki/South_Korea">Republic of Korea</a> */
-    Republic_of_Korea("KR", "KOR", 410),
+    South_Korea("KR", "KOR", 410),
 
     /** <a href="http://en.wikipedia.org/wiki/Kuwait">Kuwait</a> */
     Kuwait("KW", "KWT", 414),
@@ -448,7 +448,7 @@ public enum CountryCode
     Montenegro("ME", "MNE", 499),
 
     /** <a href="http://en.wikipedia.org/wiki/Collectivity_of_Saint_Martin">Saint Martin (French part)</a> */
-    Saint Martin("MF", "MAF", 663),
+    Saint_Martin("MF", "MAF", 663),
 
     /** <a href="http://en.wikipedia.org/wiki/Madagascar">Madagascar</a> */
     Madagascar("MG", "MDG",450),
@@ -628,7 +628,7 @@ public enum CountryCode
     Slovenia("SI", "SVN", 705),
 
     /** <a href="http://en.wikipedia.org/wiki/Svalbard_and_Jan_Mayen">Svalbard and Jan Mayen</a> */
-   _Svalbard_and_Jan_Mayen("SJ", "SJM", 744),
+   Svalbard_and_Jan_Mayen("SJ", "SJM", 744),
 
     /** <a href="http://en.wikipedia.org/wiki/Slovakia">Slovakia</a> */
     Slovakia("SK", "SVK", 703),
@@ -661,7 +661,7 @@ public enum CountryCode
     Sint_Maarten("SX", "SXM", 534),
 
     /** <a href="http://en.wikipedia.org/wiki/Syria">Syrian Arab Republic</a> */
-   _Syrian_Arab_Republic("SY", "SYR", 760),
+   Syrian_Arab_Republic("SY", "SYR", 760),
 
     /** <a href="http://en.wikipedia.org/wiki/Swaziland">Swaziland</a> */
     Swaziland("SZ", "SWZ", 748),
@@ -739,16 +739,16 @@ public enum CountryCode
     Saint_Vincent_and_the_Grenadines("VC", "VCT", 670),
 
     /** <a href="http://en.wikipedia.org/wiki/Venezuela">Bolivarian Republic of Venezuela</a> */
-    Bolivarian_Republic_of_Venezuela("VE", "VEN", 862),
+    Venezuela("VE", "VEN", 862),
 
     /** <a href="http://en.wikipedia.org/wiki/British_Virgin_Islands">British Virgin Islands</a> */
-    British_Virgin_Islands("VG", "VGB", 92),
+    Virgin_Islands_British("VG", "VGB", 92),
 
     /** <a href="http://en.wikipedia.org/wiki/United_States_Virgin_Islands">Virgin Islands, U.S.</a> */
     Virgin_Islands_United_States("VI", "VIR", 850),
 
     /** <a href="http://en.wikipedia.org/wiki/Vietnam">Viet Nam</a> */
-    Viet_Nam("VN", "VNM", 704),
+    VietNam("VN", "VNM", 704),
 
     /** <a href="http://en.wikipedia.org/wiki/Vanuatu">Vanuatu</a> */
     Vanuatu("VU", "VUT", 548),
